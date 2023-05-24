@@ -1,6 +1,6 @@
 {
-  "name": "react-native-markdown-editor",
-  "version": "1.0.4",
+  "name": "react-native-md-editor",
+  "version": "1.0.5",
   "main": "lib/main.js",
   "scripts": {
     "test": "npm run test:prettier && jest",
@@ -12,12 +12,11 @@
     "react-native-markdown-view": "^1.0.0"
   },
   "peerDependencies": {
-    "react": "16.0.0-alpha.12",
-    "react-native": "0.47.1"
+    "react": "18.2.0",
+    "react-native": "0.71.7"
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
-    "babel-preset-react-native": "2.1.0",
     "deep-freeze": "^0.0.1",
     "jest": "20.0.4",
     "prettier": "^1.5.3",
