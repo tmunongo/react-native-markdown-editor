@@ -5,28 +5,34 @@
 
 This is a library for rendering a markdown editor for the markdown with helper buttons to easily write markdown. With live preview markdown as well (thanks to https://github.com/Benjamin-Dobell/react-native-markdown-view)
 
+This forked version is an updated version of the original by [kunall17](https://github.com/kunall17)
+
 ## Index
 
-* [Getting started](#getting-started)
-* [Screenshots](#screenshots)
-* [Features](#features)
-* [Usage](#usage)
-* [Customizing](#Customizing)
-    * [Your own custom formats](#your-own-custom-formats)
-    * [Customize the helper button](#customize-the-helper-button)
-    * [Customize the markdownButton styles](#customize-the-markdownbutton-styles)
-* [Props for the Markdown Editor](#props)
-* [Contributing](#contributing)
+- [react-native-markdown-editor](#react-native-markdown-editor)
+  - [Index](#index)
+  - [Getting Started](#getting-started)
+  - [Screenshots](#screenshots)
+  - [Features](#features)
+- [This is an \< h1 \> tag](#this-is-an--h1--tag)
+  - [Usage](#usage)
+  - [Customizing](#customizing)
+        - [Your own custom formats](#your-own-custom-formats)
+      - [Customize the helper button](#customize-the-helper-button)
+      - [Customize the renderButton styles](#customize-the-renderbutton-styles)
+  - [Props](#props)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Getting Started
 
 Install the node module:
 
-    yarn add react-native-markdown-editor
+    yarn add react-native-md-editor
 
 or with npm:
 
-    npm install --save react-native-markdown-editor
+    npm install --save react-native-md-editor
 
 Then see [Usage](#usage) for futher details
 
